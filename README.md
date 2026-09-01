@@ -44,10 +44,10 @@ The following videos demonstrate the execution and working of our Selenium autom
 [▶️ Watch Video 1](https://drive.google.com/file/d/10qGeWebUGcwnTRW9fljw8Sh_ZpVsLy5c/view?usp=sharing)
 
 ### 🎬 Video 2
-[▶️ Watch Video 2](https://drive.google.com/file/d/1r_iW_OCbz08NHILuk6FjnhA__9sw63Q/view?usp=sharing)
+[▶️ Watch Video 2](https://drive.google.com/file/d/1r_iW_OCbz08NHiLuk6FjinnA__9sw63Q/view?usp=sharing)
 
 ### 🎬 Video 3
-[▶️ Watch Video 3](https://drive.google.com/file/d/1ziDumLT0wPsjFD9igbrkqpV-YICJIsud/view?usp=sharing)
+[▶️ Watch Video 3](https://drive.google.com/file/d/1ziDumLT0wPSjFDgigbrkqpV-YICjIsud/view?usp=drive_link)
 
 ---
 
